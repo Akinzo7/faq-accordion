@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github] (https://github.com/Akinzo7/faq-accordion)
-- Live Site URL:[Live Site] (https://akinzo7.github.io/faq-accordion/)
+- Solution URL: [Github](https://github.com/Akinzo7/faq-accordion)
+- Live Site URL:[Live Site](https://akinzo7.github.io/faq-accordion/)
 
 ## My process
 
