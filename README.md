@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your GitHub URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: [https://github.com/Akinzo7/faq-accordion]
+- Live Site URL: [https://akinzo7.github.io/faq-accordion/]
 
 ## My process
 
@@ -59,7 +59,9 @@ accordion.forEach((otherItem) => {
 
 ### Author
 
+__[Github](https://github.com/Akinzo7)
 
+__[Frontend Mentor](https://www.frontendmentor.io/profile/Akinzo7)
 
 ### How to use this:
 1. Create a new file in your project folder named `README.md`.
