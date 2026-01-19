@@ -55,3 +55,13 @@ accordion.forEach((otherItem) => {
     otherItem.querySelector("img").src = "./assets/images/icon-plus.svg";
   }
 });
+```
+
+### Author
+
+
+
+### How to use this:
+1. Create a new file in your project folder named `README.md`.
+2. Copy and paste the text above into it.
+3. Update the bracketed links (like the Live Site URL) once you have deployed your site.
