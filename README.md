@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Design Preview](./assets/images/desktop-design.jpg)
+![Design Preview](./preview.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/Akinzo7/faq-accordion]
-- Live Site URL: [https://akinzo7.github.io/faq-accordion/]
+- Solution URL: [Github] (https://github.com/Akinzo7/faq-accordion)
+- Live Site URL:[Live Site] (https://akinzo7.github.io/faq-accordion/)
 
 ## My process
 
@@ -59,9 +59,9 @@ accordion.forEach((otherItem) => {
 
 ### Author
 
-__[Github](https://github.com/Akinzo7)
+- __[ Github](https://github.com/Akinzo7)
 
-__[Frontend Mentor](https://www.frontendmentor.io/profile/Akinzo7)
+- __[Frontend Mentor](https://www.frontendmentor.io/profile/Akinzo7)
 
 ### How to use this:
 1. Create a new file in your project folder named `README.md`.
