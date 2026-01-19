@@ -59,11 +59,7 @@ accordion.forEach((otherItem) => {
 
 ### Author
 
-- __[ Github](https://github.com/Akinzo7)
+- [ Github](https://github.com/Akinzo7)
 
-- __[Frontend Mentor](https://www.frontendmentor.io/profile/Akinzo7)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Akinzo7)
 
-### How to use this:
-1. Create a new file in your project folder named `README.md`.
-2. Copy and paste the text above into it.
-3. Update the bracketed links (like the Live Site URL) once you have deployed your site.
